@@ -1,0 +1,150 @@
+best hyper parameters for SVM : {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+
+Number of features: 260
+
+Metrics for SVM on train data:
+Accuracy: 0.99
+Precision: 0.99
+Recall: 0.99
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.90
+Precision: 0.92
+Recall: 0.92
+
+*************************************************
+
+best hyper parameters for SVM : {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+
+Number of features: 260
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.88
+Precision: 0.90
+Recall: 0.90
+
+*************************************************
+
+best hyper parameters for SVM : {'C': 10, 'gamma': 0.0001, 'kernel': 'rbf'}
+
+Number of features: 260
+
+Metrics for SVM on train data:
+Accuracy: 0.86
+Precision: 0.86
+Recall: 0.86
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.72
+Precision: 0.77
+Recall: 0.82
+
+*************************************************
+
+best hyper parameters for SVM : {'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}
+
+Number of features: 260
+
+Metrics for SVM on train data:
+Accuracy: 0.94
+Precision: 0.94
+Recall: 0.94
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.79
+Precision: 0.81
+Recall: 0.84
+
+*************************************************
+
+best hyper parameters for SVM : {'C': 30, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 0.99
+Precision: 1.00
+Recall: 0.99
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.91
+Precision: 0.94
+Recall: 0.93
+
+*************************************************
+
+best hyper parameters for SVM : {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 0.99
+Precision: 0.99
+Recall: 0.99
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.91
+Precision: 0.95
+Recall: 0.91
+
+*************************************************
+
+best hyper parameters for SVM : {'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.92
+Precision: 0.95
+Recall: 0.93
+
+*************************************************
+
+best hyper parameters for SVM : {'C': 100, 'gamma': 'scale', 'kernel': 'rbf', , class_weight='balanced'}
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.92
+Precision: 0.95
+Recall: 0.93
+
+*************************************************
+
+best hyper parameters for SVM : {'C': 30, 'gamma': 'scale', 'kernel': 'rbf', , class_weight='balanced'}
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 0.99
+Precision: 0.99
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.92
+Precision: 0.95
+Recall: 0.93

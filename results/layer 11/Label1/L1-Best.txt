@@ -1,0 +1,15 @@
+PCA - 0.99
+SVM - C=100, gamma='scale', kernel='rbf'
+
+Number of features: 386
+
+Metrics for SVM on train data:
+Accuracy: 0.99
+Precision: 0.99
+Recall: 0.99
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.95
+Precision: 0.95
+Recall: 0.95

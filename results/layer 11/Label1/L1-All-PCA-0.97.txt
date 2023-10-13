@@ -1,0 +1,36 @@
+Number of features: 218
+
+Metrics for K Neighbors on train data:
+Accuracy: 0.88
+Precision: 0.89
+Recall: 0.88
+
+
+Metrics for K Neighbors on validation data:
+Accuracy: 0.78
+Precision: 0.80
+Recall: 0.79
+
+
+Metrics for XGBoost on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for XGBoost on validation data:
+Accuracy: 0.83
+Precision: 0.83
+Recall: 0.83
+
+
+Metrics for SVM on train data:
+Accuracy: 0.94
+Precision: 0.94
+Recall: 0.94
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.89
+Precision: 0.90
+Recall: 0.90

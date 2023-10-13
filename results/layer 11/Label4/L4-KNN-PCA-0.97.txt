@@ -1,0 +1,32 @@
+DEFAULT
+
+Number of features: 221
+
+Metrics for K Neighbors on train data:
+Accuracy: 0.94
+Precision: 0.94
+Recall: 0.94
+
+
+Metrics for K Neighbors on validation data:
+Accuracy: 0.90
+Precision: 0.90
+Recall: 0.90
+
+*************************************************
+
+best score for K Neighbors : 0.8160928781567507
+best hyper parameters for K Neighbors : {'weights': 'distance', 'n_neighbors': 11, 'metric': 'manhattan'}
+
+Number of features: 221
+
+Metrics for K Neighbors on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for K Neighbors on validation data:
+Accuracy: 0.91
+Precision: 0.92
+Recall: 0.91

@@ -1,0 +1,33 @@
+C=10, gamma=0.001, kernel='rbf'
+
+Number of features: 278
+
+Metrics for SVM on train data:
+Accuracy: 0.99
+Precision: 0.99
+Recall: 0.99
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.95
+Precision: 0.95
+Recall: 0.95
+
+*************************************************
+
+C=10, gamma='scale', kernel='rbf'
+
+Number of features: 278
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.94
+Precision: 0.95
+Recall: 0.95
+
+

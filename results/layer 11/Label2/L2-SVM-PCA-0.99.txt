@@ -1,0 +1,133 @@
+C=10, gamma=0.001, kernel= 'rbf'
+
+Number of features: 385
+
+Metrics for SVM on train data:
+Accuracy: 0.96
+Precision: 0.97
+Recall: 0.96
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.89
+Precision: 0.90
+Recall: 0.89
+
+*************************************************
+
+C=10, gamma=0.001, kernel= 'rbf', class_weight='balanced'
+
+Number of features: 385
+
+Metrics for SVM on train data:
+Accuracy: 0.95
+Precision: 0.95
+Recall: 0.95
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.89
+Precision: 0.89
+Recall: 0.89
+
+*************************************************
+
+C=10, gamma='scale', kernel= 'rbf'
+
+Number of features: 385
+
+Metrics for SVM on train data:
+Accuracy: 0.98
+Precision: 0.98
+Recall: 0.98
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.90
+Precision: 0.91
+Recall: 0.90
+
+*************************************************
+
+C=10, gamma='scale', kernel= 'rbf', class_weight='balanced'
+
+Number of features: 385
+
+Metrics for SVM on train data:
+Accuracy: 0.97
+Precision: 0.97
+Recall: 0.97
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.90
+Precision: 0.90
+Recall: 0.90
+
+*************************************************
+
+C=30, gamma='scale', kernel='rbf'
+
+Number of features: 385
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.90
+Precision: 0.90
+Recall: 0.90
+
+*************************************************
+
+C=30, gamma='scale', kernel= 'rbf', class_weight='balanced'
+
+Number of features: 385
+
+Metrics for SVM on train data:
+Accuracy: 0.99
+Precision: 0.99
+Recall: 0.99
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.89
+Precision: 0.90
+Recall: 0.89
+
+*************************************************
+
+C=100, gamma='scale', kernel='rbf'
+
+Number of features: 385
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.90
+Precision: 0.91
+Recall: 0.90
+
+*************************************************
+
+C=100, gamma='scale', kernel= 'rbf', class_weight='balanced'
+
+Number of features: 385
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.90
+Precision: 0.90
+Recall: 0.90

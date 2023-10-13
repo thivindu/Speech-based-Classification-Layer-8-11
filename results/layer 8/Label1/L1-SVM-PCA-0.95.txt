@@ -1,0 +1,119 @@
+Fitting 3 folds for each of 18 candidates, totalling 54 fits
+best score for SVM : 0.9376227465630004
+best hyper parameters for SVM : {'kernel': 'rbf', 'gamma': 0.001, 'C': 10}
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 0.98
+Precision: 0.98
+Recall: 0.98
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.96
+Precision: 0.96
+Recall: 0.96
+
+*************************************************
+
+correlation_threshold = 0.9
+correlation_threshold = 0.005
+
+Number of features: 257
+
+Metrics for SVM on train data:
+Accuracy: 0.98
+Precision: 0.98
+Recall: 0.98
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.95
+Precision: 0.96
+Recall: 0.96
+
+*************************************************
+
+C=10, gamma=0.001, kernel='rbf'
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 0.98
+Precision: 0.98
+Recall: 0.98
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.96
+Precision: 0.96
+Recall: 0.96
+
+*************************************************
+
+C=10, gamma='scale', kernel='rbf'
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 0.99
+Precision: 0.99
+Recall: 0.99
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.96
+Precision: 0.96
+Recall: 0.96
+
+*************************************************
+
+C=10, gamma='auto', kernel='rbf'
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.96
+Precision: 0.96
+Recall: 0.96
+
+*************************************************
+
+C=30, gamma='auto', kernel='rbf'
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.96
+Precision: 0.96
+Recall: 0.96
+
+*************************************************
+
+C=100, gamma='auto', kernel='rbf'
+
+Number of features: 309
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.96
+Precision: 0.96
+Recall: 0.96

@@ -1,0 +1,78 @@
+FULL
+
+Number of features: 233
+
+Metrics for K Neighbors on train data:
+Accuracy: 0.99
+Precision: 0.99
+Recall: 0.99
+
+
+Metrics for K Neighbors on validation data:
+Accuracy: 0.97
+Precision: 0.93
+Recall: 0.98
+
+
+Metrics for Random Forest on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for Random Forest on validation data:
+Accuracy: 0.95
+Precision: 0.97
+Recall: 0.87
+
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for SVM on validation data:
+Accuracy: 1.00
+Precision: 0.99
+Recall: 1.00
+
+********************************************************************
+0.5
+
+Number of features: 241
+
+Metrics for K Neighbors on train data:
+Accuracy: 0.99
+Precision: 0.98
+Recall: 0.99
+
+
+Metrics for K Neighbors on validation data:
+Accuracy: 0.98
+Precision: 0.96
+Recall: 0.99
+
+
+Metrics for Random Forest on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for Random Forest on validation data:
+Accuracy: 0.94
+Precision: 0.96
+Recall: 0.84
+
+
+Metrics for SVM on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 0.99
+
+
+Metrics for SVM on validation data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00

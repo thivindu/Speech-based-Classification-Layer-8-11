@@ -1,0 +1,48 @@
+Number of features: 309
+
+Metrics for K Neighbors on train data:
+Accuracy: 0.91
+Precision: 0.91
+Recall: 0.91
+
+
+Metrics for K Neighbors on validation data:
+Accuracy: 0.83
+Precision: 0.85
+Recall: 0.83
+
+
+Metrics for Decision Tree on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for Decision Tree on validation data:
+Accuracy: 0.25
+Precision: 0.27
+Recall: 0.25
+
+
+Metrics for Random Forest on train data:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+
+
+Metrics for Random Forest on validation data:
+Accuracy: 0.77
+Precision: 0.78
+Recall: 0.77
+
+
+Metrics for SVM on train data:
+Accuracy: 0.96
+Precision: 0.97
+Recall: 0.96
+
+
+Metrics for SVM on validation data:
+Accuracy: 0.93
+Precision: 0.94
+Recall: 0.93
